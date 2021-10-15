@@ -9,6 +9,8 @@ public class PruebaGit {
         
         int numero = 10;
         
+        int nemero2= 20;
+        
         
         
     }
