@@ -7,6 +7,9 @@ public class PruebaGit {
         
         String cadena = "hola como estas";
         
+        int numero = 10;
+        
+        
         
     }
     
